@@ -1,3 +1,5 @@
+//https://www.youtube.com/watch?v=rBkVVm1VuUo
+
 let c, c2, c3; // color de los rombos
 let n, n2, n3; // color de los cuadrados
 let x1, x2, x3, x4; // posicion x de los rombos
