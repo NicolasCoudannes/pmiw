@@ -1,3 +1,4 @@
+//https://www.youtube.com/watch?v=jN_4Gw7wa7E&ab_channel=Natalia
 let sound;
 let i = 0;
 let k = 0;
