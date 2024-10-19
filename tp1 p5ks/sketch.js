@@ -69,7 +69,7 @@ function draw() {
     background(0);
     fill(255);
     textSize(30);
-    text("Nicolas Coudannes\n Natalia Aguilera", 250, 250);
+    text("Nicolas Coudannes 119002/4\n Natalia Aguilera 75373/2", 180, 250);
     fill(255);
     rect(220, 440, 150, 30);
     fill(0);
